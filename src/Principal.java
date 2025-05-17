@@ -7,6 +7,7 @@ public class Principal {
         Conversor conversor = new Conversor();
         int opcao = 0;
         double valorDigitado;
+        String moedaDeOrigem, moedaDeDestino;
 
         System.out.println("\nBem-vindo(a) ao Conversor de Moeda!\n");
 
@@ -64,9 +65,6 @@ public class Principal {
                 System.out.println("Entrada inválida! Certifique-se de digitar um número corretamente.");
                 continue;
             }
-
-            String moedaDeOrigem = "";
-            String moedaDeDestino = "";
 
             switch (opcao) {
                 case 1 -> { moedaDeOrigem = "BRL"; moedaDeDestino = "USD"; }
