@@ -22,10 +22,10 @@ Este projeto é um Conversor de Moeda desenvolvido em Java que permite a convers
 - As taxas de câmbio são obtidas automaticamente via API de conversão de moedas.
 - Exibe resultados formatados com duas casas decimais para melhor precisão.
 
-## 🛠️ Tecnologias Utilizadas
+## 🔨 Tecnologias Utilizadas
 - Java
 
-## 🖥️ Como Usar
+## 💻 Como Usar
 1. Clone o repositório e copie o projeto para seu computador usando o seguinte comando no terminal:
 ```sh
 git clone https://github.com/seu-usuario/challenge-conversor-de-moeda.git
