@@ -2,14 +2,15 @@
    <img src="src/titulo.png" alt="Título Conversor de Moeda">
 </p>
 
-## Índice
-1. [Descrição](#descrição)
-2. [Funcionalidades](#funcionalidades)
-3. [Tecnologia Utilizada](#tecnologia-utilizada)
-4. [Como Usar](#como-usar)
-5. [Exemplo de Uso](#exemplo-de-uso)
-6. [Contribuições](#contribuições)
-7. [Licença](#licença)
+## 📌 Índice
+1. [Descrição](#-descrição)
+2. [Funcionalidades](#-funcionalidades)
+3. [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+4. [Como Usar](#-como-usar)
+5. [Exemplo de Uso](#-exemplo-de-uso)
+6. [Contribuições](#-contribuições)
+7. [Licença](#-licença)
+
 
 ## 📝 Descrição
 Este projeto é um Conversor de Moeda desenvolvido em Java que permite a conversão entre 12 opções de moedas. O usuário pode interagir diretamente pelo teclado, escolhendo a moeda de origem e destino, além de inserir valores numéricos de forma intuitiva. O programa integra-se a uma API de taxas de câmbio, garantindo que os cálculos estejam sempre alinhados com as taxas atuais do mercado.
@@ -21,7 +22,7 @@ Este projeto é um Conversor de Moeda desenvolvido em Java que permite a convers
 - As taxas de câmbio são obtidas automaticamente via API de conversão de moedas.
 - Exibe resultados formatados com duas casas decimais para melhor precisão.
 
-## 🛠️ Tecnologia Utilizada
+## 🛠️ Tecnologias Utilizadas
 - Java
 
 ## 🖥️ Como Usar
